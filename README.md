@@ -13,6 +13,7 @@ git clone https://github.com/dnh273/Portfolio-Mini.git
 3. Open the index.html file in your browser to view the website.
 
 ## Usage
+
 The website is designed to be easy to customize, and comes with a variety of sections that you can modify to suit your needs.
 
 1. Open the index.html file in your code editor.
@@ -22,6 +23,12 @@ The website is designed to be easy to customize, and comes with a variety of sec
 3. Customize the CSS to change the layout and styling of the website.
 
 4. Save your changes, and refresh the page in your browser to see the updated website.
+
+## Tasks 
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Credits
 This project was built by [dnh273](https://github.com/dnh273).
