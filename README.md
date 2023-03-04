@@ -3,11 +3,11 @@
 This is a simple portfolio website designed to showcase your skills, projects, and experiences. The website is built using HTML, CSS, and JavaScript, and is fully responsive, meaning it looks great on all devices.
 
 ## Installation
-Clone the repository to your local machine
-1. bash
-```
-git clone https://github.com/dnh273/Portfolio-Mini.git
-```
+1. Clone the repository to your local machine
+  ```
+  git clone https://github.com/dnh273/Portfolio-Mini.git
+  ```
+  
 2. Open the project in your favorite code editor.
 
 3. Open the index.html file in your browser to view the website.
